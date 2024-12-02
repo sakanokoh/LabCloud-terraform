@@ -123,7 +123,7 @@ Le groupe de ressources `hamsak-terraform-aks-rg` créés et ceux liés avec
 Il y a une un dépassement du limit de cpu avec mon compte Azure for Student c'est la raison pour laquelle il y a qu'un cluster `hamsak-terraform-aks-rg` dans notre groupe de ressources `hamsak-terraform-aks-rg`
 
  - Erreur en image
- <img src="imgDemo\resultDetails.png" width="1200" height="300">
+ <img src="imgDemo\error.png" width="1200" height="300">
 
 Details result dans `hamsak-terraform-aks-rg`
 
