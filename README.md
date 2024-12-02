@@ -140,6 +140,10 @@ Voilà les résultats
 <img src="imgDemo\Resultat.png" width="1200" height="300">
 
 
+- Dans `hamsak-terraform-aks-rg`
+<img src="imgDemo\InRg.png" width="1200" height="300">
+
+
 - Cluster 1 en Détails
 <img src="imgDemo\ResultatDetailsC1.png" width="1200" height="300">
 
