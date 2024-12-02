@@ -115,6 +115,7 @@ Voici un aperçu des résultats obtenus de l'exécution du projet avec des captu
 ```
 
 <img src="imgDemo\apply1.png" width="1200" height="300">
+<img src="imgDemo\apply2.png" width="1200" height="300">
 
 - **Resultat**
 Le groupe de ressources `hamsak-terraform-aks-rg` créés et ceux liés avec 
