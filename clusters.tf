@@ -13,8 +13,8 @@ module "cluster1" {
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
   dns_prefix          = "cluster1"
-  node_count          = 2
-  vm_size             = "Standard_B1ms"
+  node_count          = 1
+  vm_size             = "Standard_DS2_v2"
 }
 
 module "cluster2" {
@@ -23,6 +23,6 @@ module "cluster2" {
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
   dns_prefix          = "cluster2"
-  node_count          = 2
-  vm_size             = "Standard_B1ms"
+  node_count          = 1
+  vm_size             = "Standard_DS2_v2"
 }

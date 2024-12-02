@@ -127,5 +127,22 @@ Il y a une un dépassement du limit de cpu avec mon compte Azure for Student c'e
 
 Details result dans `hamsak-terraform-aks-rg`
 
-<img src="imgDemo\resultDetails.png" width="1200" height="300"># LabCloud-terraform
-# LabCloud-terraform
+<img src="imgDemo\resultDetails.png" width="1200" height="300">
+
+**Après avoir diminué le nombre de chaque cluster en 1 pour éviter de dépasser les capacités de cpu**
+Voilà les résultats
+
+- Apply 
+<img src="imgDemo\apply2.png" width="1200" height="300">
+
+
+- Les groupes de ressources (`hamsak-terraform-aks-rg` et les autres associés)
+<img src="imgDemo\Resultat.png" width="1200" height="300">
+
+
+- Cluster 1 en Détails
+<img src="imgDemo\ResultatDetailsC1.png" width="1200" height="300">
+
+
+- Cluster 2 en Détails
+<img src="imgDemo\ResultatDetailsC2.png" width="1200" height="300">
